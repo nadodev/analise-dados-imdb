@@ -10,8 +10,6 @@ Este projeto envolve a realização de uma Análise Exploratória de Dados (EDA)
 4. [Uso](#uso)
 5. [Análise Exploratória de Dados](#análise-exploratória-de-dados)
 6. [Resultados](#resultados)
-7. [Contribuições](#contribuições)
-8. [Licença](#licença)
 
 ## Introdução
 
